@@ -25,3 +25,5 @@ Como Data Analyst, el objetivo de estas herramientas es:
 
 **Autor:** [Pedro Perez](https://github.com)  
  **Última actualización:** Abril 2026
+
+<img width="992" height="585" alt="image" src="https://github.com/user-attachments/assets/28ab0eb8-cd2a-433b-8619-79b4663396b8" />
