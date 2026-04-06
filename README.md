@@ -28,3 +28,5 @@ Como Data Analyst, el objetivo de estas herramientas es:
 
 <img width="992" height="585" alt="image" src="https://github.com/user-attachments/assets/28ab0eb8-cd2a-433b-8619-79b4663396b8" />
 <img width="643" height="543" alt="image" src="https://github.com/user-attachments/assets/9fabdf37-5ed5-49c4-86c9-1023bada1221" />
+<img width="991" height="672" alt="image" src="https://github.com/user-attachments/assets/721bc953-3c13-4770-927d-b5593ebb9c14" />
+
