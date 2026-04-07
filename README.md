@@ -1,6 +1,6 @@
 DAtasix26 
 
-# 📊 Datasix26 - Información de Eventos
+# 📊 Datasix26 - “Proyectos basados en casos reales de negocio (eventos y ventas)”
 
 > Plantilla pública para el seguimiento y análisis de eventos (pasados y próximos).
 
