@@ -1,11 +1,9 @@
 DAtasix26 
 
-# 📊 Datasix26 - “Proyectos basados en casos reales de negocio  (ventas)”
-
-> Plantilla pública para el seguimiento y análisis de eventos (pasados y próximos).
+# 📊 Datasix26 - “Proyectos basados en casos reales de negocio  
 
 ##  Descripción del Proyecto
-Este repositorio sirve como base para la gestión de datos de eventos. Está diseñado para centralizar la información y permitir un análisis detallado utilizando herramientas de **Data Analytics**.
+.Business analytics project based on real business cases, focused on sales, events, and profitability analysis.
 
 ##  Stack Tecnológico
 *   **Lenguaje:** Python 
