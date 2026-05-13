@@ -1,25 +1,90 @@
-DAtasix26 
 
-# 📊 Datasix26 - “Proyectos basados en casos reales de negocio  
+# Datasix26 — Event & Business Analytics
 
-##  Descripción del Proyecto
-.Business analytics project based on real business cases, focused on sales, events, and profitability analysis.
+**Author:** Pedro Perez | Data Analyst Jr
+**Last updated:** April 2026
+**Stack:** Python · SQL · Power BI · VS Code
 
-##  Stack Tecnológico
-*   **Lenguaje:** Python 
-*   **Entorno:** Visual Studio Code
-*   **Análisis:** SQL & Power BI (Integración de reportes)
+---
 
-##  Estructura del Repositorio
-*   `/data`: Datasets de eventos en formato CSV/JSON.
-*   `/scripts`: Código Python para limpieza y transformación de datos.
-*   `/notebooks`: Análisis exploratorio (EDA).
+## What This Project Solves
 
-##  Impacto del Análisis
-Como Data Analyst, el objetivo de estas herramientas es:
-*    **Optimización de precios** basada en histórico.
-*    **Reducción de costos operativos** mediante automatización.
-*    **Crecimiento de ingresos** mediante detección de tendencias.
+Event-based businesses often operate without visibility into
+which events actually perform well. Datasix26 analyzes real
+attendance and business data to answer three core questions:
+
+- Which events attract the most attendees?
+- What is the projected attendance trend?
+- Where should resources be allocated next?
+
+---
+
+## Repository Structure
+
+Datasix26/
+├── data/eventos.csv
+├── scripts/cleaning.py
+├── scripts/eda.py
+├── scripts/prediction.py
+└── outputs/ (charts & dashboards)
+
+---
+
+## Results
+
+### Attendance by Event
+
+| Event | Attendees |
+|---|---|
+| Conferencia Tech | 120 |
+| Taller Python | 45 |
+| Data Summit | 300 |
+| Networking | 80 |
+| Hackathon | 150 |
+
+Key insight: Data Summit generated 300 attendees, nearly 3x
+the average. Small workshops show low traction.
+
+---
+
+### Prediction Model
+
+| Metric | Value |
+|---|---|
+| R² | 0.02 |
+| Correlation | 1.00 |
+| Predicted attendance (Event 6) | ~167 |
+
+---
+
+## Tools & Techniques
+
+- Python: Pandas, Matplotlib, NumPy, Scikit-learn
+- SQL: Data extraction and filtering
+- Power BI: KPI reporting
+- Methods: EDA, Linear Regression, Trend Analysis
+
+---
+
+## How to Run
+
+git clone https://github.com/pz920205/Datasix26.git
+pip install pandas matplotlib numpy scikit-learn
+python scripts/eda.py
+python scripts/prediction.py
+
+---
+
+## Contact
+
+Pedro Perez — Data Analyst Jr
+Guatemala City
+GitHub: github.com/pz920205
+LinkedIn: linkedin.com/in/pedro-andres-perez
+
+
+
+
 
 **Autor:** [Pedro Perez](https://github.com)  
  **Última actualización:** Abril 2026
